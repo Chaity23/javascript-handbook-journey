@@ -14,7 +14,7 @@ public class Main {
 }
 
 //Exercise 3:3. Deliberately remove a quotation mark from a console.log line, run it, and read the error message
-carefully. Getting comfortable with errors starts now.
+carefully. Getting comfortable with errors starts now
 
 // This program demonstrates an error caused by a missing quotation mark.
 
